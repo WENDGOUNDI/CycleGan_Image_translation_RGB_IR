@@ -31,3 +31,5 @@ References
 Dataset original paper: http://irip.buaa.edu.cn/lock3dface/resources/Lock3DFace.pdf
 
 network implementation: https://machinelearningmastery.com/cyclegan-tutorial-with-keras/
+
+Cyclegan papaer:  https://arxiv.org/pdf/1703.10593.pdf
